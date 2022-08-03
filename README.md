@@ -2,7 +2,7 @@
 
 ---
 
-### Demo project to demonstrate how to track Celery tasks readliness.
+### Demo project to explain how to use Celery tasks in Django project 
 
 ---
 
